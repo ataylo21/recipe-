@@ -6,6 +6,7 @@ Ingredients:
 Instructions:
 - cut and mash avacados
 - chop onion
+- chop the jalopenos 
 - squeeze lime
 - add salt 
-- mix well
+- and mix well
